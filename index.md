@@ -21,7 +21,8 @@ I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at
 ## Employment
 
 `2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+__Illumina, Inc.__ 
+Bioinformatics scientist (data scientist and statistical programmer)
 
 ## Education
 
