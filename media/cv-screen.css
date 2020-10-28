@@ -59,15 +59,15 @@ body {
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
 	margin-top: 1em;
-	margin-left: 10em;
+	margin-left: 7em;
 }
 
 p {
 	position: relative;
-	left: 25%;
+	left: 50%;
 	margin-bottom: 0.7em;
 	margin-right: 10em;
-	width: 65%;
+	width: 100%;
 }
 
 code {
