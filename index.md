@@ -20,8 +20,8 @@ I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at
 
 ## Employment
 
-`2015-` 
-**Illumina, Inc.** <br>
+`2015-` <br> 
+__Illumina, Inc.__ <br>
 Bioinformatics scientist (data scientist and statistical programmer)
 
 ## Education
