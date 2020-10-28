@@ -1,0 +1,67 @@
+I"X	<h1 id="robertus-diawan-chris">Robertus Diawan Chris</h1>
+
+<div id="webaddress">
+<i class="fa fa-home"></i> <a href="http://bruhtus.github.io">bruhtus.github.io</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/bruhtus">bruhtus</a>
+|
+<i class="fa fa-envelope"></i> <a href="mailto:diawan@pm.me">diawan@pm.me</a>
+</div>
+
+<hr />
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2014-2020</code> <br />
+<strong>Institut Teknologi Sepuluh Nopember</strong> <br />
+Bachelor of Mathematics. Major in Computer Science.</p>
+
+<h2 id="projects">Projects</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2019-2020</code> <br />
+<strong>Pavement Distress Detector Using Single Shot Detector</strong> <br />
+This was my graduation project. In this project, I implement single shot detector (SSD) to detect pavement distresses.
+The best result was 75.45% accuracy on video with less small-sized pavement distresses.</p>
+
+<h2 id="organization">Organization</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2015-2016</code> <br />
+<strong>Staff Internal Department</strong> | UKAFO (ITS Photography Club) <br />
+I organized one of internal events: plotting for mentoring program
+between staff and new member.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2016-2017</code> <br />
+<strong>Head of Internal Department</strong> | UKAFO (ITS Photography Club) <br />
+I supervised all internal events such as recruiment new member, welcome party, mentoring program, photography workshop, and photoshoot (weekly event).</p>
+
+<h2 id="technical-skills">Technical skills</h2>
+
+<ul>
+  <li>Linux shell</li>
+  <li>Vim</li>
+  <li>Git</li>
+  <li>Python</li>
+  <li>Adobe lightroom</li>
+  <li>Adobe photoshop</li>
+</ul>
+
+<!-- ## Areas of expertise
+
+* Machine learning
+* Data visualisation
+* Computer vision -->
+
+<h2 id="links">Links</h2>
+
+<!-- fa are fontawesome, ai are academicons -->
+<ul>
+  <li><i class="fa fa-envelope"></i> <a href="mailto:diawan@pm.me">diawan@pm.me</a><br /></li>
+  <li><i class="fa fa-github"></i> <a href="http://github.com/bruhtus">bruhtus</a><br /></li>
+  <li><i class="fa fa-twitter"></i> <a href="http://twitter.com/diawanchris">diawanchris</a><br /></li>
+  <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/bruhtus/">bruhtus</a></li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+:ET

@@ -55,7 +55,7 @@ table {
 body {
     position: relative;
 	font: normal normal 400;
-	font-size: 130%;
+	font-size: 120%;
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
@@ -67,12 +67,12 @@ p {
 	position: relative;
 	left: 25%;
 	margin-bottom: 0.7em;
-	margin-right: 1em;
-	width: 65%;
+	margin-right: 0em;
+	width: 60%;
 }
 
 code {
-	font: normal normal;
+	font: normal normal 400;
 	font-size: 90%;
 	font-family: Menlo, monospace, sans-serif;
 	color: #aaa;
@@ -80,10 +80,10 @@ code {
 
 p code {
 	position: relative;
-	left: -10%;
-    bottom: 60%;
+	left: -27%;
+	top: 1.7em;
+	text-align: right;
 }
-
 
 ul {
 	position: relative;
@@ -108,22 +108,19 @@ li ul {
 }
 
 h1,h2,h3,h4 {
-	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
 }
 
 h1 {
-	color: #fd9544;
+	color: #101010;
 	text-align: left;
-	font-size: 3em;
+	font-size: 2em;
 	line-height: 1em;
 	position: relative;
 	margin-top: 2em;
 	left: 25%;
 	/* padding: .1rem 1rem; */
-  text-shadow: 1px 1px #fff,
-      					1px 2px #ccc;
 }
 
 h1+p {
@@ -139,12 +136,12 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	/* color: #a00; */
-	color: #1D49A0;
+	color: #1d69a0;
 	margin-top: 2em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
-	width: 15%;
+	width: 14%;
 }
 
 h3 {
@@ -154,7 +151,7 @@ h3 {
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width: 15%;
+	width: 17%;
 }
 
 a {
@@ -169,7 +166,7 @@ a:hover {
 #webaddress {
 	margin-top: 0em;
 	position: relative;
-  margin-left: 25%;
+    margin-left: 25%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
