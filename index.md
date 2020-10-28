@@ -40,7 +40,6 @@ I supervised all internal events such as recruiment new member, welcome party, m
 ## Technical skills
 
 * Linux shell
-* Vim
 * Git
 * Python
 * Adobe lightroom
