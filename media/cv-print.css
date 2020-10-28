@@ -56,7 +56,7 @@ body {
     position: relative;
 	font: normal normal 400;
 	font-size: 90%;
-	line-height: 1.3em;
+	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
 	margin-top: 1em;
@@ -189,6 +189,10 @@ strong {
 #address {
 	display: none;
 }
+
+/* #areas-of-expertise {
+    page-break-before: always;
+} */
 
 .footer {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
