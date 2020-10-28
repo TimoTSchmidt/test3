@@ -53,6 +53,7 @@ table {
 @font-face { font-family: 'Linux Libertine'; font-style: normal; font-weight: 400; src: local('Linux Libertine'),url(//brick.a.ssl.fastly.net/fonts/linuxlibertine/400.woff) format('woff'); } .fa-wikipedia:before { font-family: 'Linux Libertine', 'Times New Roman', Times, serif; font-weight: 400; content: "W"; }
 
 body {
+    position: relative;
 	font: normal normal 400;
 	font-size: 100%;
 	line-height: 1.5em;
@@ -114,7 +115,7 @@ h1,h2,h3,h4 {
 h1 {
 	color: #fd9544;
 	text-align: left;
-	font-size: 3em;
+	font-size: 7em;
 	line-height: 1em;
 	position: relative;
 	margin-top: 2em;
