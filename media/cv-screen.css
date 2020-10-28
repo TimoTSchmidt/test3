@@ -80,6 +80,8 @@ code {
 
 p code {
 	position: relative;
+	left: -10%;
+    bottom: -20%;
 }
 
 
