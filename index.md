@@ -25,8 +25,7 @@ __Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical prog
 
 ## Education
 
-`2012-`
-`2015`
+`2012-15`
 __University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
 
 `2011-12`

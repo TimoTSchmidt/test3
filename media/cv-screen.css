@@ -79,7 +79,7 @@ code {
 }
 
 p code {
-	position: absolute;
+	position: relative;
 	left: -10%;
 }
 
