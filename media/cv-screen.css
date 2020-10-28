@@ -67,7 +67,7 @@ p {
 	position: relative;
 	left: 25%;
 	margin-bottom: 0.7em;
-	margin-right: 20em;
+	margin-right: 50em;
 	width: 65%;
 }
 
@@ -129,7 +129,7 @@ h1+p {
 	/*subtitle*/
 	color: #1D49A0;
 	font-style: italic;
-	font-size: 210%;
+	font-size: 310%;
 	line-height: 2em;
 	margin-top: 0.5em;
 	margin-bottom: 0em !important;
