@@ -142,7 +142,7 @@ h2 {
 	margin-top: 2em;
 	position: relative;
 	top: 1.4em;
-	text-align: right;
+	text-align: left;
 	width: 15%;
 }
 
@@ -152,7 +152,7 @@ h3 {
 	line-height: 2em;
 	position: relative;
 	top: 1.7em;
-	text-align: right;
+	text-align: left;
 	width: 15%;
 }
 
