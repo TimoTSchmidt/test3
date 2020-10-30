@@ -46,7 +46,6 @@ between staff and new member.
 * Git
 * Python
 * Adobe lightroom
-* Adobe photoshop
 
 <!-- ## Areas of expertise
 
