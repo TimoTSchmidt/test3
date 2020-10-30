@@ -27,11 +27,6 @@ The best result was 75.45% accuracy on video with less small-sized pavement dist
 
 ## Experience
 
-`2015-2016` <br>
-__Staff Internal Department__ | UKAFO (ITS Photography Club) <br>
-I organized one of internal events: plotting for mentoring program
-between staff and new member.
-
 `2016-2017` <br>
 __Head of Internal Department__ | UKAFO (ITS Photography Club) <br>
 I supervised all internal events such as recruiment new member, welcome party, mentoring program, photography workshop, and photoshoot (weekly event).
@@ -39,6 +34,11 @@ I supervised all internal events such as recruiment new member, welcome party, m
 `2016-2017` <br>
 __Teaching Assistant__ | PAPSI ITS <br>
 I guided more than 20 students to learn about microsoft office application, made test question for the exams, planned mini project to implement the learning materials, and planned the final project for final exam.
+
+`2015-2016` <br>
+__Staff Internal Department__ | UKAFO (ITS Photography Club) <br>
+I organized one of internal events: plotting for mentoring program
+between staff and new member.
 
 ## Technical skills
 
