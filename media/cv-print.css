@@ -194,6 +194,10 @@ strong {
     page-break-before: always;
 } */
 
+#experience {
+    page-break-before: always;
+}
+
 .footer {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
