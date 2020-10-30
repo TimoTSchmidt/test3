@@ -25,17 +25,20 @@ __Pavement Distress Detector Using Single Shot Detector__ <br>
 This was my graduation project. In this project, I implement single shot detector (SSD) to detect pavement distresses.
 The best result was 75.45% accuracy on video with less small-sized pavement distresses.
 
-## Organization
+## Experience
 
 `2015-2016` <br>
 __Staff Internal Department__ | UKAFO (ITS Photography Club) <br>
 I organized one of internal events: plotting for mentoring program
 between staff and new member.
 
-
 `2016-2017` <br>
 __Head of Internal Department__ | UKAFO (ITS Photography Club) <br>
 I supervised all internal events such as recruiment new member, welcome party, mentoring program, photography workshop, and photoshoot (weekly event).
+
+`2016-2017` <br>
+__Teaching Assistant__ | PAPSI ITS <br>
+I guided more than 20 students to learn about microsoft office application, made test question for the exams, planned mini project to implement the learning materials, and planned the final project for final exam.
 
 ## Technical skills
 
