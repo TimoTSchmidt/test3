@@ -29,7 +29,7 @@ Note the separate CSS for print and screen media (see `media/cv-print.css`), my 
 Another problem with the PDF is pagebreaks, they're often not handled gracefully so I've added one in explicitly. Say you want a pagebreak before the section titled "education" (`h2` text is set to `id` so use unique section headers!), the print media CSS would be:
 
 ```CSS
-#education {
+#technical-skills {
 	page-break-before: always;
 }
 ```
