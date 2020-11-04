@@ -29,7 +29,7 @@ The best result was 75.45% accuracy on video with less small-sized pavement dist
 
 `2016-2017` <br>
 __Head of Internal Department__ | UKAFO (ITS Photography Club) <br>
-I supervised all internal events such as recruiment new member, welcome party, mentoring program, photography workshop, and photoshoot (weekly event).
+I supervised all internal events such as recuitment new member, welcome party, mentoring program, photography workshop, and photoshoot (weekly event).
 
 `2016-2017` <br>
 __Teaching Assistant__ | PAPSI ITS <br>
