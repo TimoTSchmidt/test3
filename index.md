@@ -22,7 +22,7 @@ Bachelor of Mathematics. Major in Computer Science.
 
 `2019-2020` <br>
 __Pavement Distress Detector Using Single Shot Detector__ <br>
-This was my undergraduate thesis. In this project, I implement single shot detector (SSD) to detect pavement distresses.
+This was my undergraduate thesis. For my undergraduate thesis, I implement single shot detector (SSD) to detect pavement distresses.
 The best result was 75.45% accuracy on video with less small-sized pavement distresses.
 
 ## Experience
