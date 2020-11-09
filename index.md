@@ -20,14 +20,14 @@ Bachelor of Mathematics. Major in Computer Science.
 
 ## Projects
 
+`2020` <br>
+__Instasaver__ <br>
+This was my personal project. In this project i tried to combine instaloader python module and streamlit to make a tool to save instagram post using post url as an input and then deploy it to streamlit sharing.
+
 `2019-2020` <br>
 __Pavement Distress Detector Using Single Shot Detector__ <br>
 This was my undergraduate thesis. For my undergraduate thesis, I implement single shot detector (SSD) to detect pavement distresses.
 The best result was 75.45% accuracy on video with less small-sized pavement distresses.
-
-`2020` <br>
-__Instasaver__ <br>
-This was my personal project. In this project i tried to combine instaloader python module and streamlit to make a tool to save instagram post using post url as an input and then deploy it to streamlit sharing.
 
 ## Experience
 
