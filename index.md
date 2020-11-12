@@ -18,17 +18,6 @@ title: Robertus Diawan Chris' CV
 __Institut Teknologi Sepuluh Nopember__ <br>
 Bachelor of Mathematics. Major in Computer Science.
 
-## Projects
-
-`2020` <br>
-__Instasaver__ <br>
-This was my personal project. In this project I tried to combine instaloader python module and streamlit to make a tool to save instagram post using post url as an input and then deploy it to streamlit sharing.
-
-`2019-2020` <br>
-__Pavement Distress Detector__ <br>
-This was my undergraduate thesis. For my undergraduate thesis, I implement single shot detector (SSD) to detect pavement distresses.
-The best result was 75.45% accuracy on video with less small-sized pavement distresses.
-
 ## Experience
 
 `2016-2017` <br>
@@ -50,6 +39,17 @@ between staff and new member.
 * Git
 * Python
 * Adobe lightroom
+
+## Projects
+
+`2020` <br>
+__Instasaver__ <br>
+This was my personal project. In this project I tried to combine instaloader python module and streamlit to make a tool to save instagram post using post url as an input and then deploy it to streamlit sharing.
+
+`2019-2020` <br>
+__Pavement Distress Detector__ <br>
+This was my undergraduate thesis. For my undergraduate thesis, I implement single shot detector (SSD) to detect pavement distresses.
+The best result was 75.45% accuracy on video with less small-sized pavement distresses.
 
 <!-- ## Areas of expertise
 
