@@ -14,21 +14,21 @@ title: Robertus Diawan Chris' CV
 
 ## Education
 
-`2014-2020` <br>
+`2014-2020`
 __Institut Teknologi Sepuluh Nopember__ <br>
 Bachelor of Mathematics. Major in Computer Science.
 
 ## Experience
 
-`2016-2017` <br>
+`2016-2017`
 __Head of Internal Department__ | UKAFO (ITS Photography Club) <br>
 I supervised all internal events such as recuitment new member, welcome party, mentoring program, photography workshop, and photoshoot (weekly event).
 
-`2016-2017` <br>
+`2016-2017`
 __Teaching Assistant__ | PAPSI ITS <br>
 I guided more than 20 students to learn about microsoft office application, made test question for the exams, planned mini project to implement the learning materials, and planned the final project for final exam.
 
-`2015-2016` <br>
+`2015-2016`
 __Staff Internal Department__ | UKAFO (ITS Photography Club) <br>
 I organized one of internal events: plotting for mentoring program
 between staff and new member.
@@ -42,11 +42,11 @@ between staff and new member.
 
 ## Projects
 
-`2020` <br>
+`2020`
 __Instasaver__ <br>
 This was my personal project. In this project I tried to combine instaloader python module and streamlit to make a tool to save instagram post using post url as an input and then deploy it to streamlit sharing.
 
-`2019-2020` <br>
+`2019-2020`
 __Pavement Distress Detector__ <br>
 This was my undergraduate thesis. For my undergraduate thesis, I implement single shot detector (SSD) to detect pavement distresses.
 The best result was 75.45% accuracy on video with less small-sized pavement distresses.

@@ -73,6 +73,8 @@ p {
 }
 
 code {
+    display: flex;
+    flex-wrap: wrap;
 	font: normal normal 400;
 	font-size: 90%;
 	font-family: Menlo, monospace, sans-serif;

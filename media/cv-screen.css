@@ -53,14 +53,15 @@ table {
 @font-face { font-family: 'Linux Libertine'; font-style: normal; font-weight: 400; src: local('Linux Libertine'),url(//brick.a.ssl.fastly.net/fonts/linuxlibertine/400.woff) format('woff'); } .fa-wikipedia:before { font-family: 'Linux Libertine', 'Times New Roman', Times, serif; font-weight: 400; content: "W"; }
 
 body {
-    position: relative;
+    /* position: relative; */
 	font: normal normal 400;
 	font-size: 120%;
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
-	margin-top: 1em;
-	margin-left: 3em;
+    max-width: 800px;
+	margin-left: auto;
+    margin-right: auto;
     text-align: justify;
 }
 
@@ -73,6 +74,8 @@ p {
 }
 
 code {
+    display: flex;
+    flex-wrap: wrap;
 	font: normal normal 400;
 	font-size: 90%;
 	font-family: Menlo, monospace, sans-serif;
