@@ -55,13 +55,14 @@ table {
 body {
     position: relative;
 	font: normal normal 400;
-	font-size: 90%;
+	font-size: 95%;
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
 	margin-top: 1em;
 	margin-left: 3em;
     text-align: justify;
+    color: #65706f;
 }
 
 p {
@@ -116,7 +117,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #22A0F4;
+	color: #707070;
 	text-align: left;
 	font-size: 2em;
 	line-height: 1em;
@@ -139,7 +140,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	/* color: #a00; */
-	color: #0C6AA8;
+	color: #5e7d5e;
 	margin-top: 2em;
     margin-left: 1em;
 	position: relative;
@@ -160,7 +161,7 @@ h3 {
 
 a {
 	color: inherit;
-	/*text-decoration:none*/
+	text-decoration:none;
 }
 
 a:hover {
@@ -171,7 +172,7 @@ a:hover {
 	margin-top: 0em;
 	position: relative;
     margin-left: 25%;
-	color: #aaa;
+	color: #4c5745;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
