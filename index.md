@@ -44,7 +44,7 @@ between staff and new member.
 
 `2020`
 __Instasaver__ <br>
-This was my personal project. In this project I tried to combine instaloader python module and streamlit to make a tool to save instagram post using post url as an input and then deploy it to streamlit sharing.
+This was my personal project. In this project I tried to combine instaloader python module and streamlit to make a tool to save instagram post using post url as an input and then deploy it to streamlit sharing (<a href="https://intip.in/instasaver">intip.in/instasaver</a>) and heroku (<a href="https://instasaver.js.org/">instasaver.js.org</a>).
 
 `2019-2020`
 __Pavement Distress Detector__ <br>
