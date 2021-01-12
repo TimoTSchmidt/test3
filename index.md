@@ -18,37 +18,36 @@ title: Robertus Diawan Chris' CV
 __Institut Teknologi Sepuluh Nopember__ <br>
 Bachelor of Mathematics. Major in Computer Science.
 
+## Skills
+
+- Linux shell
+- Git
+- Python
+- Adobe lightroom
+
 ## Experience
 
 `2016-2017`
 __Head of Internal Department__ | UKAFO (ITS Photography Club) <br>
-I supervised all internal events such as recuitment new member, welcome party, mentoring program, photography workshop, and photoshoot (weekly event).
+Supervised all internal events such as recuitment new member, welcome party, mentoring program, photography workshop, and photoshoot (weekly event).
 
 `2016-2017`
 __Teaching Assistant__ | PAPSI ITS <br>
-I guided more than 20 students to learn about microsoft office application, made test question for the exams, planned mini project to implement the learning materials, and planned the final project for final exam.
+Assisted Student Who has trouble following the lecture or has an error while the lecture ongoing.
 
 `2015-2016`
 __Staff Internal Department__ | UKAFO (ITS Photography Club) <br>
-I organized one of internal events: plotting for mentoring program
-between staff and new member.
-
-## Technical skills
-
-* Linux shell
-* Git
-* Python
-* Adobe lightroom
+Organized one of internal events: plotting for mentoring program between staff and new member.
 
 ## Projects
 
 `2020`
 __Instasaver__ <br>
-This was my personal project. In this project I tried to combine instaloader python module and streamlit to make a tool to save instagram post using post url as an input and then deploy it to streamlit sharing (<a href="https://intip.in/instasaver">intip.in/instasaver</a>) and heroku (<a href="https://instasaver.js.org/">instasaver.js.org</a>).
+Combination of instaloader python module and streamlit. Live demo: <a href="https://intip.in/instasaver">intip.in/instasaver</a> (streamlit sharing) and <a href="https://instasaver.js.org/">instasaver.js.org</a> (heroku).
 
 `2019-2020`
 __Pavement Distress Detector__ <br>
-This was my undergraduate thesis. For my undergraduate thesis, I implement single shot detector (SSD) to detect pavement distresses.
+implementation of Single Shot Detector (SSD) to detect pavement distresses.
 The best result was 75.45% accuracy on video with less small-sized pavement distresses.
 
 <!-- ## Areas of expertise
@@ -60,10 +59,10 @@ The best result was 75.45% accuracy on video with less small-sized pavement dist
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:diawan@pm.me">diawan@pm.me</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/bruhtus">bruhtus</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/diawanchris">diawanchris</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/bruhtus/">bruhtus</a>
+- <i class="fa fa-envelope"></i> <a href="mailto:diawan@pm.me">diawan@pm.me</a><br />
+- <i class="fa fa-github"></i> <a href="http://github.com/bruhtus">bruhtus</a><br />
+- <i class="fa fa-twitter"></i> <a href="http://twitter.com/diawanchris">diawanchris</a><br />
+- <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/bruhtus/">bruhtus</a>
 
 <!-- ### Footer
 
