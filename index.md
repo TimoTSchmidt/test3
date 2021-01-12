@@ -33,7 +33,7 @@ Supervised all internal events such as recuitment new member, welcome party, men
 
 `2016-2017`
 __Teaching Assistant__ | PAPSI ITS <br>
-Assisted Student Who has trouble following the lecture or has an error while the lecture ongoing.
+Assisted student who has trouble following the lecture or has an error while the lecture ongoing.
 
 `2015-2016`
 __Staff Internal Department__ | UKAFO (ITS Photography Club) <br>
@@ -47,7 +47,7 @@ Combination of instaloader python module and streamlit. Live demo: <a href="http
 
 `2019-2020`
 __Pavement Distress Detector__ <br>
-implementation of Single Shot Detector (SSD) to detect pavement distresses.
+Implementation of Single Shot Detector (SSD) to detect pavement distresses.
 The best result was 75.45% accuracy on video with less small-sized pavement distresses.
 
 <!-- ## Areas of expertise
