@@ -20,10 +20,7 @@ Bachelor of Mathematics. Major in Computer Science.
 
 ## Skills
 
-- Linux shell
-- Git
-- Python
-- Adobe lightroom
+Command line interface, Shell scripting, Git, Python, Adobe lightroom
 
 ## Experience
 
