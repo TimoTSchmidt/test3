@@ -38,6 +38,10 @@ Organized one of internal events: plotting for mentoring program between staff a
 
 ## Projects
 
+`2021`
+__Arch Linux Installation Guide__ <br>
+Arch linux installation doesn't have a GUI installer by default, it just command line interface and can be overwhelming by most people. I made a guide to install arch linux that hopefully make it easier to install arch linux. Link: [bruhtus.github.io/posts/arch-installation-guide](https://bruhtus.github.io/posts/arch-installation-guide/)
+
 `2020`
 __Instasaver__ <br>
 Combination of instaloader python module and streamlit. Live demo: <a href="https://intip.in/instasaver">intip.in/instasaver</a> (streamlit sharing) and <a href="https://instasaver.js.org/">instasaver.js.org</a> (heroku).
