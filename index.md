@@ -51,7 +51,7 @@ Automatically detect pavement distresses from video input that can fasten report
 
 `present`
 __Automation POSIX Shell Scripts__ <br>
-A collection of POSIX compliant shell scripts for automating my life and improving my productivity.
+A collection of POSIX compliant shell scripts for automating my life and improving my productivity. Link: [github.com/bruhtus/scripts](https://github.com/bruhtus/scripts)
 
 `2021`
 __Arch Linux Installation Guide__ <br>
