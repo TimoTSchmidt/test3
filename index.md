@@ -45,21 +45,21 @@ Organized one of internal events: plotting for mentoring program between staff a
 
 `2021`
 __Pyv__ <br>
-Minimalist python virtual environment management tool. Github repo: [github.com/bruhtus/pyv](https://github.com/bruhtus/pyv).
+Minimalist python virtual environment management tool. Repo: [github.com/bruhtus/pyv](https://github.com/bruhtus/pyv).
 
 `2019-2020`
 __Pavement Distress Detector__ <br>
-Automatically detect pavement distresses from video input that can fasten report of road damage process. Github repo: [github.com/bruhtus/pavement_distress_ssd](https://github.com/bruhtus/pavement_distress_ssd).
+Automatically detect pavement distresses from video input that can fasten report of road damage process. Repo: [github.com/bruhtus/pavement_distress_ssd](https://github.com/bruhtus/pavement_distress_ssd).
 
 ### Side Projects
 
 `present`
 __Automation POSIX Shell Scripts__ <br>
-A collection of POSIX compliant shell scripts for automating my life and improving my productivity. Github repo: [github.com/bruhtus/scripts](https://github.com/bruhtus/scripts).
+A collection of POSIX compliant shell scripts for automating my life and improving my productivity. Repo: [github.com/bruhtus/scripts](https://github.com/bruhtus/scripts).
 
 `2021`
 __Static E-commerce Website__ <br>
-E-commerce made with hugo (static web generator), forestry.io, and snipcart for ease of use. Live demo: [e-commerce-trial.netlify.app](https://e-commerce-trial.netlify.app/). Github repo: [github.com/bruhtus/e-commerce-web](https://github.com/bruhtus/e-commerce-web).
+E-commerce made with hugo, forestry.io, and snipcart for ease of use. Demo: [e-commerce-trial.netlify.app](https://e-commerce-trial.netlify.app/). Repo: [github.com/bruhtus/e-commerce-web](https://github.com/bruhtus/e-commerce-web).
 
 `2021`
 __Arch Linux Installation Guide__ <br>
@@ -67,7 +67,7 @@ Beginner guide to arch linux installation. Link: [bruhtus.github.io/posts/arch-i
 
 `2020`
 __Markdown CV__ <br>
-A fork of [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv) with different layout and colorscheme. Live demo: [bruhtus.github.io/cv](https://bruhtus.github.io/cv/). Github repo: [github.com/bruhtus/cv](https://github.com/bruhtus/cv).
+A fork of [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv) with different layout and colorscheme. Demo: [bruhtus.github.io/cv](https://bruhtus.github.io/cv/). Repo: [github.com/bruhtus/cv](https://github.com/bruhtus/cv).
 
 <!-- ## Areas of expertise
 
