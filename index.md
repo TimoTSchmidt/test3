@@ -55,7 +55,7 @@ Automatically detect pavement distresses from video input that can fasten report
 
 `present`
 __Automation POSIX Shell Scripts__ <br>
-A collection of POSIX compliant shell scripts for automating my life and improving my productivity. Github repo: [github.com/bruhtus/scripts](https://github.com/bruhtus/scripts)
+A collection of POSIX compliant shell scripts for automating my life and improving my productivity. Github repo: [github.com/bruhtus/scripts](https://github.com/bruhtus/scripts).
 
 `2021`
 __Static E-commerce Website__ <br>
@@ -67,7 +67,7 @@ Beginner guide to arch linux installation. Link: [bruhtus.github.io/posts/arch-i
 
 `2020`
 __Markdown CV__ <br>
-A fork of [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv) with different layout and colorscheme. Live demo: [bruhtus.github.io/cv](https://bruhtus.github.io/cv/)
+A fork of [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv) with different layout and colorscheme. Live demo: [bruhtus.github.io/cv](https://bruhtus.github.io/cv/).
 
 <!-- ## Areas of expertise
 
