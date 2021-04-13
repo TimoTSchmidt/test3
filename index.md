@@ -43,6 +43,10 @@ Organized one of internal events: plotting for mentoring program between staff a
 
 ### Main Projects
 
+`2021`
+__Pyv__ <br>
+Minimalist python virtual environment management tool. Github repo: [github.com/bruhtus/pyv](https://github.com/bruhtus/pyv).
+
 `2019-2020`
 __Pavement Distress Detector__ <br>
 Automatically detect pavement distresses from video input that can fasten report of road damage process.
@@ -51,15 +55,15 @@ Automatically detect pavement distresses from video input that can fasten report
 
 `present`
 __Automation POSIX Shell Scripts__ <br>
-A collection of POSIX compliant shell scripts for automating my life and improving my productivity. Link: [github.com/bruhtus/scripts](https://github.com/bruhtus/scripts)
+A collection of POSIX compliant shell scripts for automating my life and improving my productivity. Github repo: [github.com/bruhtus/scripts](https://github.com/bruhtus/scripts)
+
+`2021`
+__Static E-commerce Website__ <br>
+E-commerce made with hugo (static web generator), forestry.io, and snipcart for ease of use. Live demo: [e-commerce-trial.netlify.app](https://e-commerce-trial.netlify.app/). Github repo: [github.com/bruhtus/e-commerce-web](https://github.com/bruhtus/e-commerce-web).
 
 `2021`
 __Arch Linux Installation Guide__ <br>
 Beginner guide to arch linux installation. Link: [bruhtus.github.io/posts/arch-installation-guide](https://bruhtus.github.io/posts/arch-installation-guide/).
-
-`2020`
-__Instasaver__ <br>
-Combination of instaloader python module and streamlit. Live demo: [intip.in/instasaver](https://intip.in/instasaver) (streamlit sharing) and [instasaver.js.org](https://instasaver.js.org/) (heroku).
 
 `2020`
 __Markdown CV__ <br>
