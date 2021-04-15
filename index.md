@@ -67,7 +67,7 @@ Beginner guide to arch linux installation. Link: [bruhtus.github.io/posts/arch-i
 
 `2020`
 __Markdown CV__ <br>
-A fork of [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv) with different layout and colorscheme. Demo: [bruhtus.github.io/cv](https://bruhtus.github.io/cv/). Repo: [github.com/bruhtus/cv](https://github.com/bruhtus/cv).
+A fork of [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv) with different layout. Demo: [bruhtus.github.io/cv](https://bruhtus.github.io/cv/). Repo: [github.com/bruhtus/cv](https://github.com/bruhtus/cv).
 
 <!-- ## Areas of expertise
 
