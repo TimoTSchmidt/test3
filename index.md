@@ -13,7 +13,7 @@ title: Robertus Diawan Chris' CV
 </div>
 
 ## Description
-I am a mathematics graduate with experience in POSIX compliant shell scripting, python scripting, and portrait photography who is looking for enthusiastic team to work for that will provide me with challenging and interesting work that I can learn from and contribute to.
+I am a mathematics graduate with experience in POSIX compliant shell scripting, python scripting, and portrait photography who is looking for enthusiastic team that will provide me with challenging and interesting work that I can learn from and contribute to.
 
 ## Skills
 
