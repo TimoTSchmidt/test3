@@ -17,7 +17,7 @@ I am a mathematics graduate with experience in POSIX compliant shell scripting, 
 
 ## Skills
 
-Command line interface, POSIX compliant shell scripting, Git, Python, Adobe lightroom
+Command line interface, POSIX compliant shell scripting, Git, Python, Adobe lightroom, Vim script
 
 ## Education
 
