@@ -58,16 +58,16 @@ __Automation POSIX Shell Scripts__ <br>
 A collection of POSIX compliant shell scripts for automating my life and improving my productivity. Repo: [github.com/bruhtus/scripts](https://github.com/bruhtus/scripts).
 
 `2021`
+__Vim-simpbuf__ <br>
+Vim plugin to manage vim buffer. Repo: [github.com/bruhtus/vim-simpbuf](https://github.com/bruhtus/vim-simpbuf).
+
+`2021`
 __Static E-commerce Website__ <br>
 E-commerce made with hugo, forestry.io, and snipcart for ease of use. Demo: [e-commerce-trial.netlify.app](https://e-commerce-trial.netlify.app/). Repo: [github.com/bruhtus/e-commerce-web](https://github.com/bruhtus/e-commerce-web).
 
 `2021`
 __Arch Linux Installation Guide__ <br>
 Beginner guide to arch linux installation. Link: [bruhtus.github.io/posts/arch-installation-guide](https://bruhtus.github.io/posts/arch-installation-guide/).
-
-`2020`
-__Markdown CV__ <br>
-A fork of [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv) with different layout. Demo: [bruhtus.github.io/cv](https://bruhtus.github.io/cv/). Repo: [github.com/bruhtus/cv](https://github.com/bruhtus/cv).
 
 <!-- ## Areas of expertise
 
