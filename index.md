@@ -17,7 +17,7 @@ I am a mathematics graduate with experience in POSIX compliant shell scripting, 
 
 ## Skills
 
-Command line interface, POSIX compliant shell scripting, Git, Python, Adobe lightroom, Vim script
+Command line interface, POSIX compliant shell scripting, Git, Python, Vim script, Adobe lightroom
 
 ## Education
 
@@ -58,12 +58,12 @@ __Automation POSIX Shell Scripts__ <br>
 A collection of POSIX compliant shell scripts for automating my life and improving my productivity. Repo: [github.com/bruhtus/scripts](https://github.com/bruhtus/scripts).
 
 `2021`
-__Vim-simpbuf__ <br>
-Vim plugin to manage vim buffer. Repo: [github.com/bruhtus/vim-simpbuf](https://github.com/bruhtus/vim-simpbuf).
+__Vim-simpmark__ <br>
+Vim plugin to manage vim mark. Repo: [github.com/bruhtus/vim-simpmark](https://github.com/bruhtus/vim-simpmark).
 
 `2021`
-__Static E-commerce Website__ <br>
-E-commerce made with hugo, forestry.io, and snipcart for ease of use. Demo: [e-commerce-trial.netlify.app](https://e-commerce-trial.netlify.app/). Repo: [github.com/bruhtus/e-commerce-web](https://github.com/bruhtus/e-commerce-web).
+__Vim-simpbuf__ <br>
+Vim plugin to manage vim buffer. Repo: [github.com/bruhtus/vim-simpbuf](https://github.com/bruhtus/vim-simpbuf).
 
 `2021`
 __Arch Linux Installation Guide__ <br>
