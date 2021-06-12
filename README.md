@@ -1,6 +1,8 @@
 # Markdown CV
 
-A jekyll-based markdown CV based on [blmoore's CV](https://github.com/blmoore/md-cv) and [elipapa's CV](https://github.com/elipapa/markdown-cv).
+This project was a fork from [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv) and based on [blmoore's CV](https://github.com/blmoore/md-cv) with a slight tweak, the usage is essentially the same. I use this as my personal CV but you can use the styling theme for your own CV.
+
+See live demo [here](https://bruhtus.github.io/cv).
 
 ### How to use
 
