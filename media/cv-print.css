@@ -120,7 +120,9 @@ h1,h2,h3,h4 {
 h1 {
 	font-family: "Helvetica", "Open sans", sans-serif;
 	color: #000000;
-	text-align: left;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 	font-size: 2em;
 	line-height: 1em;
 	position: relative;
