@@ -61,10 +61,10 @@ body {
 	font-family: "Helvetica", "Open sans", sans-serif;
 	max-width: 850px;
 	margin-left: auto;
-    margin-right: auto;
-    text-align: justify;
-    /* background-color: #efefef; */
-    color: #65706f;
+	margin-right: auto;
+	text-align: justify;
+	/* background-color: #efefef; */
+	color: #65706f;
 }
 
 p {
@@ -92,9 +92,10 @@ p code {
 }
 
 ul {
+	text-align: left;
 	position: relative;
 	left: 25%;
-	width: 65%;
+	width: 70%;
 	margin-bottom: 0em;
 	margin-top: 1em;
   columns: 3;
