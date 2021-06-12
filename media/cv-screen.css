@@ -179,9 +179,11 @@ a:hover {
 
 #webaddress {
 	font-family: "Helvetica", "Open sans", sans-serif;
+	text-align: center;
 	margin-top: 0em;
 	position: relative;
-    margin-left: 25%;
+	margin-left: auto;
+	margin-right: auto;
 	color: #4c5745;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
