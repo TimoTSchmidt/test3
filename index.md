@@ -12,18 +12,23 @@ title: Robertus Diawan Chris' CV
 <i class="fa fa-envelope"></i> <a href="mailto:diawan@pm.me">diawan@pm.me</a>
 </div>
 
-## Description
-I am a mathematics graduate with experience in POSIX compliant shell scripting, python scripting, and portrait photography who is looking for enthusiastic team that will provide me with challenging and interesting work that I can learn from and contribute to.
-
-## Skills
-
-Command line interface, POSIX compliant shell scripting, Git, Python, Vim script, Adobe lightroom
+<!-- ## Description -->
+<!-- I am a mathematics graduate with experience in POSIX compliant shell scripting, python scripting, and portrait photography who is looking for enthusiastic team that will provide me with challenging and interesting work that I can learn from and contribute to. -->
 
 ## Education
 
 `2014-2020`
 __Institut Teknologi Sepuluh Nopember__ <br>
 Bachelor of Mathematics. Major in Computer Science.
+
+## Skills
+
+- Command line interface
+- POSIX compliant shell scripting
+- Git
+- Python
+- Vim script
+- Adobe lightroom
 
 ## Experience
 
