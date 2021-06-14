@@ -42,7 +42,7 @@ Assisted student who has trouble following the lecture or has an error while the
 
 `2015-2016`
 __Staff Internal Department__ | UKAFO (ITS Photography Club) <br>
-Organized one of internal events: plotting for mentoring program between staff and new member.
+Organized mentoring program between staff and new member.
 
 ## Projects
 
