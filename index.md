@@ -38,7 +38,7 @@ Supervised all internal events such as recuitment new member and photoshoot (wee
 
 `2016-2017`
 __Teaching Assistant__ | PAPSI ITS <br>
-Assisted student who has trouble following the lecture or has an error while the lecture ongoing.
+Assisted more than 20 student on technical practice about microsoft office at one of PAPSI ITS class.
 
 `2015-2016`
 __Internal Department Staff__ | UKAFO (ITS Photography Club) <br>
