@@ -18,7 +18,7 @@ title: Robertus Diawan Chris' CV
 ## Education
 
 `2014-2020`
-__Institut Teknologi Sepuluh Nopember__ <br>
+__Institut Teknologi Sepuluh Nopember (ITS)__ <br>
 Bachelor of Mathematics. Major in Computer Science.
 
 ## Skills
@@ -41,7 +41,7 @@ __Teaching Assistant__ | PAPSI ITS <br>
 Assisted student who has trouble following the lecture or has an error while the lecture ongoing.
 
 `2015-2016`
-__Staff Internal Department__ | UKAFO (ITS Photography Club) <br>
+__Internal Department Staff__ | UKAFO (ITS Photography Club) <br>
 Organized mentoring program between staff and new member.
 
 ## Projects
