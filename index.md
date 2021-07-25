@@ -43,9 +43,23 @@ Assisted more than 20 student on technical practice about microsoft office at on
 __Internal Department Staff__ | UKAFO (ITS Photography Club) <br>
 Organized mentoring program between staff and new member.
 
-## Projects
+## Trainings
 
-### Main Projects
+`2021`
+__Amazon Web Service Cloud Foundation__ <br>
+Digital Talent Scholarship: Fresh Graduate Academy which focused on the fundamental of cloud computing and basic web services that Amazon offers with Amazon Web Service (AWS).
+
+`2021`
+__Amazon Web Service Cloud Developing__ <br>
+Digital Talent Scholarship: Fresh Graduate Academy which focused on the development aspect using cloud computing and web services that Amazon offers with Amazon Web Service (AWS).
+
+## Projects
+<br>
+(more on: [github.com/bruhtus](https://github.com/bruhtus))
+
+`2021`
+__Vim-simpbuf__ <br>
+Vim plugin to manage vim buffer. Repo: [github.com/bruhtus/vim-simpbuf](https://github.com/bruhtus/vim-simpbuf).
 
 `2021`
 __Pyv__ <br>
@@ -54,24 +68,6 @@ Minimalist python virtual environment management tool. Repo: [github.com/bruhtus
 `2019-2020`
 __Pavement Distress Detector__ <br>
 Automatically detect pavement distresses from video input that can fasten report of road damage process. Repo: [github.com/bruhtus/pavement_distress_ssd](https://github.com/bruhtus/pavement_distress_ssd).
-
-### Side Projects
-
-`present`
-__Automation POSIX Shell Scripts__ <br>
-A collection of POSIX compliant shell scripts for automating my life and improving my productivity. Repo: [github.com/bruhtus/scripts](https://github.com/bruhtus/scripts).
-
-`2021`
-__Vim-simpmark__ <br>
-Vim plugin to manage vim mark. Repo: [github.com/bruhtus/vim-simpmark](https://github.com/bruhtus/vim-simpmark).
-
-`2021`
-__Vim-simpbuf__ <br>
-Vim plugin to manage vim buffer. Repo: [github.com/bruhtus/vim-simpbuf](https://github.com/bruhtus/vim-simpbuf).
-
-`2021`
-__Arch Linux Installation Guide__ <br>
-Beginner guide to arch linux installation. Link: [bruhtus.github.io/posts/arch-installation-guide](https://bruhtus.github.io/posts/arch-installation-guide/).
 
 <!-- ## Areas of expertise
 
