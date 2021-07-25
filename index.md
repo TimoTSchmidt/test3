@@ -21,13 +21,12 @@ title: Robertus Diawan Chris' CV
 __Institut Teknologi Sepuluh Nopember (ITS)__ <br>
 Bachelor of Mathematics. Major in Computer Science.
 
-## Skills
+## Familiar with
 
 - Command line interface
 - POSIX compliant shell scripting
 - Git
 - Python
-- Vim script
 - Adobe lightroom
 
 ## Experience
