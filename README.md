@@ -1,16 +1,16 @@
-# Markdown CV
+# Markdown Resume
 
-This project was a fork from [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv) and based on [blmoore's CV](https://github.com/blmoore/md-cv) with a slight tweak, the usage is essentially the same. I use this as my personal CV but you can use the styling theme for your own CV.
+This project was a fork from [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv) and based on [blmoore's CV](https://github.com/blmoore/md-cv) with a slight tweak, the usage is essentially the same. I use this as my personal Resume but you can use the styling theme for your own Resume.
 
-See live demo [here](https://bruhtus.github.io/cv).
+See live demo [here](https://bruhtus.github.io/resume).
 
 ### How to use
 
 To build, clone the repo and run jekyll:
 
 ```bash
-git clone https://github.com/bruhtus/cv.git
-cd cv
+git clone https://github.com/bruhtus/resume.git
+cd resume
 jekyll s --config _config.yml
 ```
 (You may need to [install jekyll](https://jekyllrb.com/docs/installation/).)

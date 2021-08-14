@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: Robertus Diawan Chris' CV
+layout: resume
+title: Robertus Diawan Chris' Resume
 ---
 # Robertus Diawan Chris
 
