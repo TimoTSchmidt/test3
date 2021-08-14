@@ -47,11 +47,11 @@ Organized mentoring program between staff and new member.
 
 `2021`
 __Amazon Web Service Cloud Foundation__ <br>
-Digital Talent Scholarship: Fresh Graduate Academy which focused on the fundamental of cloud computing and basic web services that Amazon offers with Amazon Web Service (AWS).
+Digital Talent Scholarship: Fresh Graduate Academy program which focused on the fundamental of cloud computing and basic web services that Amazon offers with Amazon Web Service (AWS). Badge: [linkedin.com/in/bruhtus](https://www.linkedin.com/in/bruhtus/).
 
 `2021`
 __Amazon Web Service Cloud Developing__ <br>
-Digital Talent Scholarship: Fresh Graduate Academy which focused on the development aspect using cloud computing and web services that Amazon offers with Amazon Web Service (AWS).
+Digital Talent Scholarship: Fresh Graduate Academy program which focused on the development aspect of cloud computing and web services that Amazon offers with Amazon Web Service (AWS). Badge: [linkedin.com/in/bruhtus](https://www.linkedin.com/in/bruhtus/).
 
 ## Projects
 <br>
@@ -67,7 +67,7 @@ Minimalist python virtual environment management tool. Repo: [github.com/bruhtus
 
 `2019-2020`
 __Pavement Distress Detector__ <br>
-Automatically detect pavement distresses from video input that can fasten report of road damage process. Repo: [github.com/bruhtus/pavement_distress_ssd](https://github.com/bruhtus/pavement_distress_ssd).
+Automatically detect pavement distresses from video input. Repo: [github.com/bruhtus/pavement_distress_ssd](https://github.com/bruhtus/pavement_distress_ssd).
 
 <!-- ## Areas of expertise
 
