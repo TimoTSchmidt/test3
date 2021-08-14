@@ -58,8 +58,12 @@ Digital Talent Scholarship: Fresh Graduate Academy program which focused on the 
 (more on: [github.com/bruhtus](https://github.com/bruhtus))
 
 `2021`
-__Vim-simpbuf__ <br>
-Vim plugin to manage vim buffer. Repo: [github.com/bruhtus/vim-simpbuf](https://github.com/bruhtus/vim-simpbuf).
+__Vim-groot__ <br>
+Vim plugin to toggle between git root and file directory as current working directory. Repo: [github.com/bruhtus/vim-groot](https://github.com/bruhtus/vim-groot).
+
+`2021`
+__Bufstop (contributor)__ <br>
+Fast and efficient buffer switching for Vim. Contribution: [github.com/mihaifm/bufstop/pull/24](https://github.com/mihaifm/bufstop/pull/24).
 
 `2021`
 __Pyv__ <br>
