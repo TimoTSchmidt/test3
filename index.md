@@ -58,12 +58,16 @@ Digital Talent Scholarship: Fresh Graduate Academy program which focused on the 
 (more on: [github.com/bruhtus](https://github.com/bruhtus))
 
 `2021`
+__Vim-como__ <br>
+Copy or move one line with a count and without cluttering Vim register. Repo: [github.com/bruhtus/vim-como](https://github.com/bruhtus/vim-como).
+
+`2021`
 __Vim-groot__ <br>
 Vim plugin to toggle between git root and file directory as current working directory. Repo: [github.com/bruhtus/vim-groot](https://github.com/bruhtus/vim-groot).
 
 `2021`
 __Bufstop (contributor)__ <br>
-Fast and efficient buffer switching for Vim. Contribution: [github.com/mihaifm/bufstop/pull/24](https://github.com/mihaifm/bufstop/pull/24).
+Vim plugin for fast and efficient buffer management. Contribution: [github.com/mihaifm/bufstop/pull/24](https://github.com/mihaifm/bufstop/pull/24).
 
 `2021`
 __Pyv__ <br>
