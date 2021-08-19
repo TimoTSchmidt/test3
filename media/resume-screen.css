@@ -59,7 +59,7 @@ body {
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Helvetica", "Open sans", sans-serif;
-	max-width: 850px;
+	max-width: 950px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: justify;
@@ -76,8 +76,8 @@ p {
 }
 
 code {
-    display: flex;
-    flex-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap;
 	font: normal normal 400;
 	font-size: 90%;
 	font-family: Menlo, monospace, sans-serif;
@@ -86,7 +86,7 @@ code {
 
 p code {
 	position: relative;
-	left: -27%;
+	left: -20%;
 	top: 1.7em;
 	text-align: right;
 }
@@ -149,7 +149,7 @@ h2 {
 	/* color: #a00; */
 	color: #466943;
 	margin-top: -0.7em;
-    margin-left: 1em;
+	margin-left: 3em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
