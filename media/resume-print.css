@@ -60,7 +60,7 @@ body {
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Helvetica", "Open sans", sans-serif;
 	margin-top: 1em;
-	margin-left: 3em;
+	margin-left: 1em;
 	text-align: justify;
 	color: #000000;
 }
@@ -74,8 +74,8 @@ p {
 }
 
 code {
-    display: flex;
-    flex-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap;
 	font: normal normal 400;
 	font-size: 90%;
 	font-family: Menlo, monospace, sans-serif;
@@ -84,7 +84,7 @@ code {
 
 p code {
 	position: relative;
-	left: -27%;
+	left: -20%;
 	top: 1.7em;
 	text-align: right;
 }
@@ -126,7 +126,7 @@ h1 {
 	font-size: 2em;
 	line-height: 1em;
 	position: relative;
-	margin-top: 2em;
+	margin-top: 1em;
 	/* left: 25%; */
 	/* padding: .1rem 1rem; */
 }
@@ -148,7 +148,7 @@ h2 {
 	font-weight: bold;
 	color: #000000;
 	margin-top: -0.5em;
-    margin-left: 1em;
+	margin-left: 3em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -210,9 +210,9 @@ strong {
     page-break-before: always;
 } */
 
-#links {
-    page-break-before: always;
-}
+/* #links { */
+/*     page-break-before: always; */
+/* } */
 
 .footer {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
