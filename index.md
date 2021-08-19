@@ -54,8 +54,6 @@ __Amazon Web Service Cloud Developing__ <br>
 Digital Talent Scholarship: Fresh Graduate Academy program which focused on the development aspect of cloud computing and web services that Amazon offers with Amazon Web Service (AWS). Badge: [linkedin.com/in/bruhtus](https://www.linkedin.com/in/bruhtus/).
 
 ## Projects
-<br>
-(more on: [github.com/bruhtus](https://github.com/bruhtus))
 
 `2021`
 __Vim-como__ <br>
@@ -87,9 +85,10 @@ Automatically detect pavement distresses from video input. Repo: [github.com/bru
 
 <!-- fa are fontawesome, ai are academicons -->
 - <i class="fa fa-envelope"></i> <a href="mailto:diawan@pm.me">diawan@pm.me</a><br />
-- <i class="fa fa-github"></i> <a href="http://github.com/bruhtus">bruhtus</a><br />
-- <i class="fa fa-twitter"></i> <a href="http://twitter.com/diawanchris">diawanchris</a><br />
-- <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/bruhtus/">bruhtus</a>
+- <i class="fa fa-github"></i> <a href="http://github.com/bruhtus">github.com/bruhtus</a><br />
+<!-- - <i class="fa fa-twitter"></i> <a href="http://twitter.com/diawanchris">twitter.com/diawanchris</a><br /> -->
+- <i class="fa fa-globe"></i> <a href="http://bruhtus.github.io/posts/">bruhtus.github.io/posts</a><br />
+- <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/bruhtus/">linkedin.com/in/bruhtus</a>
 
 <!-- ### Footer
 
