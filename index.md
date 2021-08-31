@@ -31,6 +31,10 @@ Bachelor of Mathematics. Major in Computer Science.
 
 ## Experience
 
+`2018`
+__Documentation Assistant__ | Indonesian Architecture Conference <br>
+Documented a few events by taking the photograph of the speaker and participants while discussing about architectural stuff.
+
 `2016-2017`
 __Head of Internal Department__ | UKAFO (ITS Photography Club) <br>
 Supervised all internal events such as recuitment new member and photoshoot (weekly event).
