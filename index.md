@@ -37,7 +37,7 @@ Documented a few events by taking the photograph of the speaker and participants
 
 `2016-2017`
 __Head of Internal Department__ | UKAFO (ITS Photography Club) <br>
-Supervised all internal events such as recuitment new member and photoshoot (weekly event).
+Supervised all internal events such as recruitment new member and photoshoot (weekly event).
 
 `2016-2017`
 __Teaching Assistant__ | PAPSI ITS <br>
