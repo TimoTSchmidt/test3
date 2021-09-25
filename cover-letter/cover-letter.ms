@@ -18,10 +18,10 @@ Referring to your advertisement on Glints website, I am interested in applying f
 I am a graduate of Mathematics Department, Sepuluh Nopember Institute of Technology (ITS) in Surabaya. I also attended training, namely Amazon Web Service Cloud Foundation and Amazon Web Service Cloud Developing.
 
 .PP
-I have an experience as Head of Internal Department at UKAFO (ITS Photography Club). I also became a teaching assistant at PAPSI ITS and Documentation Assistant for Indonesian Architecture Conference 2018.
+During my time at Sepuluh Nopember Institute of Technology (ITS), I became Head of Internal Department at UKAFO (ITS Photography Club). I also became a teaching assistant at PAPSI ITS and Documentation Assistant for Indonesian Architecture Conference 2018.
 
 .PP
-Although I have no experience in other managerial works, I can assure you that I am a good learner and a detail-oriented type of person. This can enable me to learn much more about the jobs and responsibilities.
+Although I am still lacking in terms of technical skills, my curiosity and ability to work with others will enable me to learn quickly about the tasks and responsibilities of the position.
 
 .PP
 I am looking forward to receiving an invitation to attend an interview where I can have an opportunity to present myself in more details.
