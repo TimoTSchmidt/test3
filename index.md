@@ -60,12 +60,12 @@ Digital Talent Scholarship: Fresh Graduate Academy program which focused on the 
 ## Projects
 
 `2021`
-__Vim-possession__ <br>
-Flexible vim session management. Repo: [github.com/bruhtus/vim-possession](https://github.com/bruhtus/vim-possession).
+__To-do app__ <br>
+Simple react native to-do app. Repo: [github.com/bruhtus/simple-rn-todo-app](https://github.com/bruhtus/simple-rn-todo-app).
 
 `2021`
-__Vim-como__ <br>
-Copy or move one line with a count and without cluttering Vim register. Repo: [github.com/bruhtus/vim-como](https://github.com/bruhtus/vim-como).
+__Vim-possession__ <br>
+Flexible vim session management. Repo: [github.com/bruhtus/vim-possession](https://github.com/bruhtus/vim-possession).
 
 `2021`
 __Bufstop (contributor)__ <br>
