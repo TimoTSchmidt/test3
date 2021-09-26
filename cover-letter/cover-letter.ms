@@ -24,7 +24,7 @@ During my time at Sepuluh Nopember Institute of Technology (ITS), I became Head 
 Although I am still lacking in terms of technical skills, my curiosity and ability to work with others will enable me to learn quickly about the tasks and responsibilities of the position.
 
 .PP
-I am looking forward to receiving an invitation to attend an interview where I can have an opportunity to present myself in more details.
+I am looking forward to receive an invitation to attend an interview where I can have an opportunity to present myself in more details.
 
 .LD
 Sincerely Yours,
