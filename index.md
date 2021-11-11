@@ -31,6 +31,13 @@ Bachelor of Mathematics. Major in Computer Science.
 
 ## Experience
 
+`2021`
+__Speaker__ | Vim Conference Live 2021 <br>
+Topic of the talk: a quick way to access normal mode command from insert mode. <br>
+The record of my talk: [https://youtu.be/u4PlG0bRn-0](https://youtu.be/u4PlG0bRn-0) <br>
+The full playlist of the event: <br>
+[https://youtube.com/playlist?list=PLcTu2VkAIIWyuX-yNe0KNSPR7wjS2lNKz](https://youtube.com/playlist?list=PLcTu2VkAIIWyuX-yNe0KNSPR7wjS2lNKz)
+
 `2018`
 __Documentation Assistant__ | Indonesian Architecture Conference <br>
 Documented a few events by taking the photograph of the speaker and participants while discussing about architectural stuff.
@@ -42,10 +49,6 @@ Supervised all internal events such as recruitment new member and photoshoot (we
 `2016-2017`
 __Teaching Assistant__ | PAPSI ITS <br>
 Assisted more than 20 student on technical practice about microsoft office at one of PAPSI ITS class.
-
-`2015-2016`
-__Internal Department Staff__ | UKAFO (ITS Photography Club) <br>
-Organized mentoring program between staff and new member.
 
 ## Trainings
 
