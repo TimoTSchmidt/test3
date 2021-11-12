@@ -16,35 +16,35 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;
+  display: block;
 }
 body {
-	line-height: 1;
+  line-height: 1;
 }
 ol, ul {
-	list-style: none;
+  list-style: none;
 }
 blockquote, q {
-	quotes: none;
+  quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
-	content: none;
+  content: '';
+  content: none;
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 /* end of reset */
@@ -53,174 +53,174 @@ table {
 @font-face { font-family: 'Linux Libertine'; font-style: normal; font-weight: 400; src: local('Linux Libertine'),url(//brick.a.ssl.fastly.net/fonts/linuxlibertine/400.woff) format('woff'); } .fa-wikipedia:before { font-family: 'Linux Libertine', 'Times New Roman', Times, serif; font-weight: 400; content: "W"; }
 
 body {
-	/* position: relative; */
-	font: normal normal 400;
-	font-size: 120%;
-	line-height: 1.5em;
-	/* font-family: Verdana, sans-serif; */
-	font-family: "Helvetica", "Open sans", sans-serif;
-	max-width: 950px;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: justify;
-	/* background-color: #efefef; */
-	color: #65706f;
+  /* position: relative; */
+  font: normal normal 400;
+  font-size: 120%;
+  line-height: 1.5em;
+  /* font-family: Verdana, sans-serif; */
+  font-family: "Helvetica", "Open sans", sans-serif;
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  /* background-color: #efefef; */
+  color: #65706f;
 }
 
 p {
-	position: relative;
-	left: 25%;
-	margin-bottom: -0.7em;
-	margin-right: 0em;
-	width: 60%;
+  position: relative;
+  left: 25%;
+  margin-bottom: -0.7em;
+  margin-right: 0em;
+  width: 60%;
 }
 
 code {
-	display: flex;
-	flex-wrap: wrap;
-	font: normal normal 400;
-	font-size: 90%;
-	font-family: Menlo, monospace, sans-serif;
-	color: #707070;
+  display: flex;
+  flex-wrap: wrap;
+  font: normal normal 400;
+  font-size: 90%;
+  font-family: Menlo, monospace, sans-serif;
+  color: #707070;
 }
 
 p code {
-	position: relative;
-	left: -20%;
-	top: 1.7em;
-	text-align: right;
+  position: relative;
+  left: -20%;
+  top: 1.7em;
+  text-align: right;
 }
 
 ul {
-	text-align: left;
-	position: relative;
-	left: 25%;
-	width: 70%;
-	margin-bottom: 0em;
-	margin-top: 1em;
-	columns: 2;
-	-webkit-columns: 2;
-	-moz-columns: 2;
+  text-align: left;
+  position: relative;
+  left: 25%;
+  width: 70%;
+  margin-bottom: 0em;
+  margin-top: 1em;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
 
 
 li {
-	/* empty */
+  /* empty */
 }
 
 li ul {
-	position: relative;
-	left: 0;
+  position: relative;
+  left: 0;
 /*	margin-top: 0.25em; */
 }
 
 h1,h2,h3,h4 {
-	font-family: Verdana,Cousine,sans-serif;
-	width: 65%;
+  font-family: Verdana,Cousine,sans-serif;
+  width: 65%;
 }
 
 h1 {
-	font-family: "Helvetica", "Open sans", sans-serif;
-	color: #707070;
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
-	font-size: 2em;
-	line-height: 1em;
-	position: relative;
-	margin-top: 2em;
-	/* left: 25%; */
-	/* padding: .1rem 1rem; */
+  font-family: "Helvetica", "Open sans", sans-serif;
+  color: #707070;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2em;
+  line-height: 1em;
+  position: relative;
+  margin-top: 2em;
+  /* left: 25%; */
+  /* padding: .1rem 1rem; */
 }
 
 h1+p {
-	/*subtitle*/
-	color: #1D49A0;
-	font-style: italic;
-	font-size: 110%;
-	line-height: 2em;
-	margin-top: 0.5em;
-	margin-bottom: 0em !important;
+  /*subtitle*/
+  color: #1D49A0;
+  font-style: italic;
+  font-size: 110%;
+  line-height: 2em;
+  margin-top: 0.5em;
+  margin-bottom: 0em !important;
 }
 
 h2 {
-	font-family: "Helvetica", "Open sans", sans-serif;
-	font-size: 1.1em;
-	/* color: #a00; */
-	color: #466943;
-	margin-top: -0.7em;
-	margin-left: 3em;
-	position: relative;
-	top: 1.4em;
-	text-align: right;
-	width: 14%;
+  font-family: "Helvetica", "Open sans", sans-serif;
+  font-size: 1.1em;
+  /* color: #a00; */
+  color: #466943;
+  margin-top: -0.7em;
+  margin-left: 3em;
+  position: relative;
+  top: 1.4em;
+  text-align: right;
+  width: 14%;
 }
 
 h3 {
-	font-family: "Helvetica", "Open sans", sans-serif;
-	color: #466943;
-	font-size: 1em;
-	line-height: 1.5em;
-	position: relative;
-	top: 1.7em;
-	text-align: right;
-	width: 17%;
+  font-family: "Helvetica", "Open sans", sans-serif;
+  color: #466943;
+  font-size: 1em;
+  line-height: 1.5em;
+  position: relative;
+  top: 1.7em;
+  text-align: right;
+  width: 17%;
 }
 
 a {
-	font-family: "Helvetica", "Open sans", sans-serif;
-	color: inherit;
-	text-decoration:none;
+  font-family: "Helvetica", "Open sans", sans-serif;
+  color: inherit;
+  text-decoration:none;
 }
 
 a:hover {
-	color:#37be5c
+  color:#37be5c
 }
 
 #webaddress {
-	font-family: "Helvetica", "Open sans", sans-serif;
-	text-align: center;
-	margin-top: 0em;
-	position: relative;
-	margin-left: auto;
-	margin-right: auto;
-	color: #4c5745;
-	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+  font-family: "Helvetica", "Open sans", sans-serif;
+  text-align: center;
+  margin-top: 0em;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  color: #4c5745;
+  font-family: Menlo,monospace,sans-serif;
+  font-size: 80%;
 }
 
 #webaddress a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 em {
-	/*font-weight: bold; */
-	font-style: italic;
+  /*font-weight: bold; */
+  font-style: italic;
 }
 
 strong {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 #address {
-	display: none;
+  display: none;
 }
 
 .footer {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;
-		position: relative;
-		left: 25%;
-		margin-top: 2em;
-		margin-bottom: 7em;
-		margin-right: 0;
-		width: 65%;
+    position: relative;
+    left: 25%;
+    margin-top: 2em;
+    margin-bottom: 7em;
+    margin-right: 0;
+    width: 65%;
 }
 
 #technical
 
 /*
 @media only screen and (max-width: 480px) {
-	make one column somehow...
+  make one column somehow...
 }*/
