@@ -32,6 +32,10 @@ Bachelor of Mathematics. Major in Computer Science.
 ## Experience
 
 `2021`
+__Volunteer__ | International Society for Music Information Retrieval (ISMIR) 2021 <br>
+Act as a point of contact between sponsor, attendees, and organizer. Make sure that the sponsor's virtual booth are set correctly and fix any underlying issues.
+
+`2021`
 __Speaker__ | Vim Conference Live 2021 <br>
 Topic of the talk: a quick way to access normal mode command from insert mode. <br>
 The record of my talk: [https://youtu.be/u4PlG0bRn-0](https://youtu.be/u4PlG0bRn-0) <br>
