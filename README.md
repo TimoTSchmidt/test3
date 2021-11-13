@@ -13,7 +13,7 @@ git clone https://github.com/bruhtus/resume.git
 cd resume
 jekyll s --config _config.yml
 ```
-(You may need to [install jekyll](https://jekyllrb.com/docs/installation/).)
+(You may need to [install jekyll](https://jekyllrb.com/docs/installation/))
 
 ## HTML version
 
@@ -35,3 +35,9 @@ Another problem with the PDF is pagebreaks, they're often not handled gracefully
 	page-break-before: always;
 }
 ```
+
+## References
+
+- [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv)
+- [blmoore's CV](https://github.com/blmoore/md-cv)
+- [font scalling based on width in css](https://stackoverflow.com/a/19814948)
