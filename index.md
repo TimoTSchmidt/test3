@@ -5,11 +5,9 @@ title: Robertus Diawan Chris' Resume
 # Robertus Diawan Chris
 
 <div id="webaddress">
-<i class="fa fa-home"></i> <a href="http://bruhtus.github.io">bruhtus.github.io</a>
+<a href="https://github.com/bruhtus">https://github.com/bruhtus</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/bruhtus">bruhtus</a>
-|
-<i class="fa fa-envelope"></i> <a href="mailto:diawan@pm.me">diawan@pm.me</a>
+<a href="mailto:diawan@pm.me">diawan@pm.me</a>
 </div>
 
 <!-- ## Description -->
@@ -18,73 +16,77 @@ title: Robertus Diawan Chris' Resume
 ## Education
 
 `2014-2020`
-__Institut Teknologi Sepuluh Nopember (ITS)__ <br>
-Bachelor of Mathematics. Major in Computer Science.
-
-## Familiar with
-
-- Command line interface
-- POSIX compliant shell scripting
-- Git
-- Python
-- Adobe lightroom
+__Sepuluh Nopember Instutute of Technology (ITS)__ <br>
+_Bachelor of Mathematics, Computer Science (Focus: AI)_
+> Thesis: "Implementation of Single Shot Detector (SSD) Method To Classify Pavement Distress on Video Data"
+- Classify pavement distresses such as alligator cracks, longitudinal cracks, transverse cracks, and potholes within video input using Single Shot Detector (SSD).
 
 ## Experience
 
 `2021`
-__Volunteer__ | International Society for Music Information Retrieval (ISMIR) 2021 <br>
-Act as a point of contact between sponsor, attendees, and organizer. Make sure that the sponsor's virtual booth are set correctly and fix any underlying issues.
+__International Society for Music Information Retrieval (ISMIR) 2021__ <br>
+_Volunteer in Sponsorship Team_
+- Act as a point of contact between sponsor, attendees, and organizer.
+- Make sure that the sponsor's virtual booth are set correctly and fix any underlying issues.
 
 `2021`
-__Speaker__ | Vim Conference Live 2021 <br>
-Topic of the talk: a quick way to access normal mode command from insert mode. <br>
-The record of my talk: [https://youtu.be/u4PlG0bRn-0](https://youtu.be/u4PlG0bRn-0) <br>
-The full playlist of the event: <br>
-[https://youtube.com/playlist?list=PLcTu2VkAIIWyuX-yNe0KNSPR7wjS2lNKz](https://youtube.com/playlist?list=PLcTu2VkAIIWyuX-yNe0KNSPR7wjS2lNKz)
+__Vim Conference Live 2021__ <br>
+_Speaker_
+- Topic of the talk: a quick way to access normal mode command from insert mode.
+- The record of my talk: [https://youtu.be/u4PlG0bRn-0](https://youtu.be/u4PlG0bRn-0)
 
 `2018`
-__Documentation Assistant__ | Indonesian Architecture Conference <br>
-Documented a few events by taking the photograph of the speaker and participants while discussing about architectural stuff.
+__Indonesian Architecture Conference 2018__ <br>
+_Documentation Assistant_
+- Documented interaction between the speaker and participants.
+- Documented the situation around exhibition.
 
 `2016-2017`
-__Head of Internal Department__ | UKAFO (ITS Photography Club) <br>
-Supervised all internal events such as recruitment new member and photoshoot (weekly event).
+__UKAFO (ITS Photography Club)__ <br>
+_Head of Internal Department_
+- Supervised all internal events such as recruitment new member and photoshoot (weekly event).
 
 `2016-2017`
-__Teaching Assistant__ | PAPSI ITS <br>
-Assisted more than 20 student on technical practice about microsoft office at one of PAPSI ITS class.
+__PAPSI ITS__ <br>
+_Teaching Assistant_
+- Assisted more than 20 student on technical practice about microsoft office at one of PAPSI ITS class.
 
 ## Trainings
 
 `2021`
-__Amazon Web Service Cloud Foundation__ <br>
-Digital Talent Scholarship: Fresh Graduate Academy program which focused on the fundamental of cloud computing and basic web services that Amazon offers with Amazon Web Service (AWS). Badge: [linkedin.com/in/bruhtus](https://www.linkedin.com/in/bruhtus/).
+__Digital Talent Scholarship: Fresh Graduate Academy__ <br>
+> _Amazon Web Service (AWS) Cloud Foundation_
+- Learn about the basic principal of cloud service, such as economics benefit of cloud service instead of on-premise hardware.
 
-`2021`
-__Amazon Web Service Cloud Developing__ <br>
-Digital Talent Scholarship: Fresh Graduate Academy program which focused on the development aspect of cloud computing and web services that Amazon offers with Amazon Web Service (AWS). Badge: [linkedin.com/in/bruhtus](https://www.linkedin.com/in/bruhtus/).
+> _Amazon Web Service (AWS) Cloud Developing_
+- Learn about the basic cloud development in AWS, such as basic info about container and AWS lambda.
 
 ## Projects
 
 `2021`
 __To-do app__ <br>
-Simple react native to-do app. Repo: [github.com/bruhtus/simple-rn-todo-app](https://github.com/bruhtus/simple-rn-todo-app).
+- Simple react native to-do app with only basic stuff.
+- Repo: [https://github.com/bruhtus/simple-rn-todo-app](https://github.com/bruhtus/simple-rn-todo-app)
 
 `2021`
 __Vim-possession__ <br>
-Flexible vim session management. Repo: [github.com/bruhtus/vim-possession](https://github.com/bruhtus/vim-possession).
+- Flexible vim session management.
+- Repo: [https://github.com/bruhtus/vim-possession](https://github.com/bruhtus/vim-possession)
 
 `2021`
 __Bufstop (contributor)__ <br>
-Vim plugin for fast and efficient buffer management. Contribution: [github.com/mihaifm/bufstop/pull/24](https://github.com/mihaifm/bufstop/pull/24).
+- Vim plugin for fast and efficient buffer management.
+- Contribution: [https://github.com/mihaifm/bufstop/pull/24](https://github.com/mihaifm/bufstop/pull/24)
 
 `2021`
 __Pyv__ <br>
-Minimalist python virtual environment management tool. Repo: [github.com/bruhtus/pyv](https://github.com/bruhtus/pyv).
+- Minimalist python virtual environment management tool.
+- Repo: [https://github.com/bruhtus/pyv](https://github.com/bruhtus/pyv)
 
 `2019-2020`
 __Pavement Distress Detector__ <br>
-Automatically detect pavement distresses from video input. Repo: [github.com/bruhtus/pavement_distress_ssd](https://github.com/bruhtus/pavement_distress_ssd).
+- Automatically detect pavement distresses from video input.
+- Repo: [https://github.com/bruhtus/pavement_distress_ssd](https://github.com/bruhtus/pavement_distress_ssd)
 
 <!-- ## Areas of expertise
 
@@ -92,15 +94,25 @@ Automatically detect pavement distresses from video input. Repo: [github.com/bru
 * Data visualisation
 * Computer vision -->
 
+## Skillsets
+
+- Programming languages: POSIX compliant shell script, Vim script, Python.
+- Tools: Command line interface, Vim, Git, Adobe lightroom.
+- Languages: Bahasa indonesia, English.
+
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-- <i class="fa fa-envelope"></i> <a href="mailto:diawan@pm.me">diawan@pm.me</a><br />
-- <i class="fa fa-github"></i> <a href="http://github.com/bruhtus">github.com/bruhtus</a><br />
+<!-- - <a href="https://linktr.ee/bruhtus">https://linktr.ee/bruhtus</a><br /> -->
+<!-- - <a href="https://github.com/bruhtus">https://github.com/bruhtus</a><br /> -->
 <!-- - <i class="fa fa-twitter"></i> <a href="http://twitter.com/diawanchris">twitter.com/diawanchris</a><br /> -->
-- <i class="fa fa-globe"></i> <a href="http://bruhtus.github.io/posts/">bruhtus.github.io/posts</a><br />
-- <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/bruhtus/">linkedin.com/in/bruhtus</a>
+- <a href="https://bruhtus.github.io/posts/arch-installation-guide/">https://bruhtus.github.io/posts/arch-installation-guide</a><br />
+- <a href="https://bruhtus.github.io/posts/pyv/">https://bruhtus.github.io/posts/pyv</a><br />
+- <a href="https://bruhtus.github.io/posts/linux-ownership-permissions/">https://bruhtus.github.io/posts/linux-ownership-permissions</a><br />
+- <a href="https://bruhtus.github.io/posts/ssh-google-colab/">https://bruhtus.github.io/posts/ssh-google-colab</a><br />
+- <a href="https://www.linkedin.com/in/bruhtus/">https://www.linkedin.com/in/bruhtus</a>
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2021 <br>
+Live demo of resume: [https://bruhtus.github.io/resume](https://bruhtus.github.io/resume/)
