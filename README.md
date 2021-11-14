@@ -41,3 +41,5 @@ Another problem with the PDF is pagebreaks, they're often not handled gracefully
 - [elipapa's markdown-cv project](https://github.com/elipapa/markdown-cv)
 - [blmoore's CV](https://github.com/blmoore/md-cv)
 - [font scalling based on width in css](https://stackoverflow.com/a/19814948)
+- [add bullet point to any element](https://stackoverflow.com/a/32456613)
+- [css bullet style](https://www.w3schools.com/cssref/pr_list-style-type.asp)
