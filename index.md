@@ -35,12 +35,6 @@ _Speaker_
 - Topic of the talk: a quick way to access normal mode command from insert mode.
 - The record of my talk: [https://youtu.be/u4PlG0bRn-0](https://youtu.be/u4PlG0bRn-0)
 
-`2018`
-__Indonesian Architecture Conference 2018__ <br>
-_Documentation Assistant_
-- Documented interaction between the speaker and participants.
-- Documented the situation around exhibition.
-
 `2016-2017`
 __UKAFO (ITS Photography Club)__ <br>
 _Head of Internal Department_
