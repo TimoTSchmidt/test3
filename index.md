@@ -90,7 +90,7 @@ __Pavement Distress Detector__ <br>
 
 ## Skillsets
 
-- Programming languages: POSIX compliant shell script, Vim script, Python.
+- Programming languages: POSIX compliant shell script, Vim script.
 - Tools: Command line interface, Vim, Git, Adobe lightroom.
 - Languages: Bahasa indonesia, English.
 
