@@ -103,7 +103,6 @@ __Pavement Distress Detector__ <br>
 - <a href="https://bruhtus.github.io/posts/arch-installation-guide/">https://bruhtus.github.io/posts/arch-installation-guide</a><br />
 - <a href="https://bruhtus.github.io/posts/pyv/">https://bruhtus.github.io/posts/pyv</a><br />
 - <a href="https://bruhtus.github.io/posts/linux-ownership-permissions/">https://bruhtus.github.io/posts/linux-ownership-permissions</a><br />
-- <a href="https://bruhtus.github.io/posts/ssh-google-colab/">https://bruhtus.github.io/posts/ssh-google-colab</a><br />
 - <a href="https://www.linkedin.com/in/bruhtus/">https://www.linkedin.com/in/bruhtus</a>
 
 ### Footer
