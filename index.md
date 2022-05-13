@@ -23,6 +23,11 @@ _Bachelor of Mathematics, Computer Science (Focus: AI)_
 
 ## Experience
 
+`2022-Now`
+__Zero One Group__ <br>
+_Product Engineer_
+- Deliver a product, in this case software related product, based on client specification.
+
 `2021`
 __International Society for Music Information Retrieval (ISMIR) 2021__ <br>
 _Volunteer in Sponsorship Team_
@@ -39,11 +44,6 @@ _Speaker_
 __UKAFO (ITS Photography Club)__ <br>
 _Head of Internal Department_
 - Supervised all internal events such as recruitment new member and photoshoot (weekly event).
-
-`2016-2017`
-__PAPSI ITS__ <br>
-_Teaching Assistant_
-- Assisted more than 20 student on technical practice about microsoft office at one of PAPSI ITS class.
 
 ## Trainings
 
@@ -107,5 +107,4 @@ __Pavement Distress Detector__ <br>
 
 ### Footer
 
-Last updated: November 2021 <br>
-Live demo of resume: [https://bruhtus.github.io/resume](https://bruhtus.github.io/resume/)
+Last updated: May 2022 <br>
